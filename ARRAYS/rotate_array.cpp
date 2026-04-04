@@ -1,11 +1,11 @@
 /*
-Problem: Rotate Array
+Problem:Right Rotate Array
 
 Approach:
 - Reverse method
 
 Time Complexity: O(n)
-Space Complexity: O(1)
+Space Complexity: O(1) 
 */
 
 #include <bits/stdc++.h>
