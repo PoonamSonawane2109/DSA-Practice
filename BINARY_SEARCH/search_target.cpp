@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// iterative code
 // Binary Search Function
 int search(vector<int>& nums, int target) {
     int low = 0;
@@ -18,6 +18,7 @@ int search(vector<int>& nums, int target) {
     }
     return -1;
 }
+
 
 // Main function
 int main() {
